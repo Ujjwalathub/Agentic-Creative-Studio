@@ -1,0 +1,22 @@
+# Core Framework & Orchestration
+langgraph>=0.1.0
+langchain>=0.1.0
+langchain-core>=0.1.0
+
+# Model Providers
+langchain-groq>=0.1.0
+langchain-huggingface>=0.0.1
+huggingface-hub>=0.20.0
+
+# Utilities
+python-dotenv>=1.0.0
+typing-extensions>=4.7.0
+
+# Optional: Image processing
+Pillow>=10.0.0
+requests>=2.31.0
+
+# Development & Testing
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
